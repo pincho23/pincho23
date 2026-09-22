@@ -1,6 +1,6 @@
 ![mcostas — Desarrollo web y móvil](assets/cover.svg)
 
-# Hola, soy mcostas
+# Hola, soy Martin Costas
 
 Desarrollo aplicaciones web y móviles enfocadas en necesidades cotidianas: organizar las finanzas del hogar y llevar un registro útil del entrenamiento.
 
